@@ -4,8 +4,8 @@ on:
     branches:
       - src
 env:
-  GIT_USER: zhaohongxuan
-  GIT_EMAIL: hxzhenu@gmail.com
+  GIT_USER: AoMe-C
+  GIT_EMAIL: q13043860813@outlook.com
 
 jobs:
   build:
