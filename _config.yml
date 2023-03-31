@@ -65,8 +65,8 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:zhaohongxuan/zhaohongxuan.github.io.git
-  branch: master
+  repo: git@github.com:AOME-C/website.git
+  branch: main
 
 search:
   path: search.xml
